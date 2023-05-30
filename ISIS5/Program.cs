@@ -4,6 +4,7 @@ class Calculator
 {
     static void Main()
     {
+        Console.WriteLine("Приветствую тебя в калькуляторе!");
         while (true)
         {
             Console.Write("Введите первое число: ");
@@ -36,6 +37,7 @@ class Calculator
                     }
                     result = num1 / num2;
                     break;
+                   
                 default:
                     Console.WriteLine("Некорректная операция");
                     continue;
