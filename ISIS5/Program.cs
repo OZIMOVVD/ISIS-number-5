@@ -45,8 +45,12 @@ class Calculator
 
             Console.WriteLine("Результат: " + result);
            
+            Console.Write("Хотите продолжить вычисления? (y/n): ");
+            string choice = Console.ReadLine();
+            if (choice.ToLower() == "n")
+            {
                 break;
-            
+            }
         }
 
         Console.WriteLine("Программа завершена");
