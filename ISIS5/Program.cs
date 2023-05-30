@@ -31,7 +31,7 @@ class Calculator
                 case '/':
                     if (num2 == 0)
                     {
-                        Console.WriteLine("Деление на ноль невозможно");
+                        Console.WriteLine("Делить на ноль невозможно");
                         continue;
                     }
                     result = num1 / num2;
