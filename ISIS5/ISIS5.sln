@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISIS5", "ISIS5.csproj", "{1CE1D39E-87A4-4EAF-A754-35258AC8B781}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CE1D39E-87A4-4EAF-A754-35258AC8B781}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CE1D39E-87A4-4EAF-A754-35258AC8B781}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CE1D39E-87A4-4EAF-A754-35258AC8B781}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CE1D39E-87A4-4EAF-A754-35258AC8B781}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9DC5D603-4B98-41EE-9910-5A20B70FA5C2}
+	EndGlobalSection
+EndGlobal
